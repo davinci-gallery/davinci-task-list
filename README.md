@@ -1,2 +1,2 @@
 # davinci-task-list
-To add work tasks to the list, please creating an issue
+To add work tasks, please creating an issue
